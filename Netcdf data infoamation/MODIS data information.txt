@@ -1,0 +1,2 @@
+The Moderate-resolution Imaging Spectroradiometer (MODIS) products of 8 km spatial resolution is available 
+at: http://files.ntsg.umt.edu/data/MOD16_TP/.

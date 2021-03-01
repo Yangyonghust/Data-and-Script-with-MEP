@@ -1,0 +1,1 @@
+The vignette (manual) of RMEP is available in RPubs at: https://rpubs.com/Yangyong/731992.
